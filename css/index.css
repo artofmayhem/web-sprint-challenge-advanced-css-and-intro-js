@@ -30,12 +30,13 @@ vertical-align: baseline;
     .artists-container 
     {
       flex-direction: column;  
+      height: auto;
     }
 
     .artist
     {
       min-width: 100%;
-      background: black;
+      background-color: black;
     }
 }
 
@@ -145,8 +146,7 @@ button:hover{
 .artists-container{
     display:flex;
     justify-content: space-around;
-    width:80%;
-    
+    width:80%
     margin:0 auto;
 }
 
