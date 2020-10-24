@@ -93,6 +93,7 @@ nav span{
     background-position: center;	
     color: white;	
     width:80%;
+    min-width: 500px;
     display:flex;
     flex-direction: column;
     justify-content: center;
@@ -130,6 +131,7 @@ button:hover{
 
 .artist{
     width:40%;
+    min-width: 400px;
     text-align:center;
 }
 .artist img{
