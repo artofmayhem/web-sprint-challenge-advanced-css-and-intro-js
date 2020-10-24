@@ -134,6 +134,7 @@ button:hover{
 .artist{
     width:40%;
     min-width: 400px;
+    min-height: 100%;
     text-align:center;
 }
 .artist img{
@@ -149,7 +150,7 @@ button:hover{
     .artists-container 
     {
       flex-direction: column;
-      height: 1000px;
+      background: black;    
     }
 
     .artist
