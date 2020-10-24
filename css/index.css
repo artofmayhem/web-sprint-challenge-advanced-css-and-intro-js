@@ -29,13 +29,13 @@ vertical-align: baseline;
     }
     .artists-container 
     {
-      flex-direction: column;
-      background: black;    
+      flex-direction: column;  
     }
 
     .artist
     {
       min-width: 100%;
+      background: black;
     }
 }
 
