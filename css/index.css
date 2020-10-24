@@ -125,7 +125,9 @@ button:hover{
 .artists-container{
     display:flex;
     justify-content: space-around;
+    flex-flow: column wrap;
     width:80%;
+    min
     margin:0 auto;
 }
 
